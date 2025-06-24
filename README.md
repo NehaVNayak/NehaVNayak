@@ -80,18 +80,6 @@
 
 ---
 
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nehavnayak&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nehavnayak&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
-</p>
-
----
-
 ### ✨ Fun Fact
 
 > I believe in lifelong learning and I’m always curious to explore new technologies, especially when it comes to AI and full-stack innovations.
