@@ -1,16 +1,100 @@
-<h1 align="center">Hi 👋, I'm Neha</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h1 align="center">Hi 👋, I'm Neha Nayak</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | AI/ML Enthusiast | Creative Problem Solver</h3>
 
-- 👨‍💻 All of my projects are available at [https://nehavnayak.github.io/portfolio/](https://nehavnayak.github.io/portfolio/)
+---
 
-- 📫 How to reach me **nehanayak246@gmail.com**
+### 💫 About Me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18gcjfWMIJTAtGoR9i4MZu9lC8ro3rkEf/view?usp=sharing](https://drive.google.com/file/d/18gcjfWMIJTAtGoR9i4MZu9lC8ro3rkEf/view?usp=sharing)
+- 👩‍💻 I love building impactful web apps and AI projects that solve real-world problems.  
+- 🎓 I'm currently pursuing my engineering degree and have a strong interest in AI/ML, full-stack development, and open source.  
+- 🌐 My portfolio: [nehavnayak.github.io/portfolio](https://nehavnayak.github.io/portfolio)  
+- 📬 Reach me at: **nehanayak246@gmail.com**  
+- 📄 [Check out my resume](https://drive.google.com/file/d/18gcjfWMIJTAtGoR9i4MZu9lC8ro3rkEf/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🤝 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/neha-nayak-752655258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neha-nayak-752655258/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/neha-nayak-752655258/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="mailto:nehanayak246@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="40" height="40" />
+  </a>
+  <a href="https://nehavnayak.github.io/portfolio/" target="_blank">
+    <img src="https://img.icons8.com/color/48/web.png" alt="Website" width="40" height="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages & Web
+<p>
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/ios-filled/50/java-coffee-cup-logo.png" title="Java"/>
+  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png" title="PHP"/>
+</p>
+
+#### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React"/>
+  <img src="https://img.icons8.com/fluency/48/node-js.png" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" title="Express.js"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" title="Spring Boot"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="TailwindCSS"/>
+</p>
+
+#### 🧠 AI / ML / Data Science
+<p>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" title="TensorFlow"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" title="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" title="OpenCV"/>
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/oracle-logo.png" title="Oracle"/>
+</p>
+
+#### 🧰 Tools & Others
+<p>
+  <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" title="Postman"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" title="Blender"/>
+</p>
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nehavnayak&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nehavnayak&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> I believe in lifelong learning and I’m always curious to explore new technologies, especially when it comes to AI and full-stack innovations.
+
+---
+
