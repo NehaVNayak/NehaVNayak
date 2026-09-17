@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neha Nayak</h1>
+<h1 align="center">Hi, I'm Neha Nayak</h1>
 
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast 🚀</h3>
 
